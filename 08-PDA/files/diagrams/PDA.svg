@@ -180,6 +180,18 @@
     </g>
   </g>
   <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 79, 107)" id="gfx-51e46a52-fbea-433b-9e70-a0cd3f179694" display="block" class="djs-element djs-shape" data-element-id="51e46a52-fbea-433b-9e70-a0cd3f179694">
+      <g class="djs-visual">
+        <rect x="0" y="0" width="90" height="30" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
+        <svg width="90" height="25" class="djs-svg-text">
+          <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
+            <tspan x="29.49784" y="14.75">INICIO</tspan>
+          </text>
+        </svg>
+      </g>
+    </g>
+  </g>
+  <g class="djs-group">
     <g transform="matrix(1, 0, 0, 1, 635, 69)" id="gfx-c3321fa3-e184-438c-b1d8-65c8b330c57b" display="block" class="djs-element djs-shape" data-element-id="c3321fa3-e184-438c-b1d8-65c8b330c57b">
       <g class="djs-visual">
         <g>
@@ -188,6 +200,18 @@
             <path d="M16 7.5 A8.5 8.5 0 1 1 7.5 16 A8.5 8.5 0 0 1 16 7.5 M16 6 A10 10 0 1 0 26 16 A10 10 0 0 0 16 6 z" stroke-width="0.4px" class="" style="fill:#990000;stroke:#990000;" />
           </g>
         </g>
+      </g>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 605, 107)" id="gfx-b4b797dc-a23c-4cf0-9465-9501117b51e2" display="block" class="djs-element djs-shape" data-element-id="b4b797dc-a23c-4cf0-9465-9501117b51e2">
+      <g class="djs-visual">
+        <rect x="0" y="0" width="90" height="30" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
+        <svg width="90" height="25" class="djs-svg-text">
+          <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
+            <tspan x="37.02205" y="14.75">FIN</tspan>
+          </text>
+        </svg>
       </g>
     </g>
   </g>
